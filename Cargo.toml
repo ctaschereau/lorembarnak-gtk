@@ -1,0 +1,8 @@
+[package]
+name = "lorembarnak-gtk"
+version = "0.1.0"
+authors = ["Cédric Taschereau <cedric.taschereau@boreal-is.com>"]
+edition = "2018"
+
+[dependencies]
+lorembarnak-rs = { path = "../lorembarnak-rs" }
