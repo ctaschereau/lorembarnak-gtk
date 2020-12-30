@@ -6,3 +6,6 @@ edition = "2018"
 
 [dependencies]
 lorembarnak-rs = { path = "../lorembarnak-rs" }
+gio = "^0.9.1"
+gdk = "^0.13.2"
+gtk = "^0.9.2"
